@@ -193,6 +193,11 @@ Planned upgrades:
 
 --------------------------------------------------
 
+# license 
+MIT license
+
+--------------------------------------------------
+
 # 👨‍🚀 Author
 
 Developed as an experimental AI engineering project combining aerospace concepts, simulation systems, and generative AI technologies.
