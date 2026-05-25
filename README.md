@@ -13,6 +13,18 @@ This project allows users to generate and evaluate original spacecraft concepts 
 
 --------------------------------------------------
 
+# ⚠️ Disclaimer
+
+#Users should input their own API keys to run the project (truly recommand ChatGPT API)
+
+This project is an experimental aerospace simulation prototype.
+
+It is NOT intended for real-world aerospace engineering or mission-critical applications RIGHTNOW.
+
+The physics models are simplified and designed for experimentation and AI-assisted concept generation, we will continue to improve it until it reaches industrial-grade standards in the future.
+
+--------------------------------------------------
+
 # ✨ Features
 
 ## 🧠 AI Spacecraft Design
@@ -178,18 +190,6 @@ Planned upgrades:
 - Atmospheric flight simulation
 - Multi-spacecraft coordination
 - Advanced optimization algorithms
-
---------------------------------------------------
-
-# ⚠️ Disclaimer
-
-#Users should input their own API keys to run the project (truly recommand ChatGPT API)
-
-This project is an educational and experimental aerospace simulation prototype.
-
-It is NOT intended for real-world aerospace engineering or mission-critical applications.
-
-The physics models are simplified and designed for learning, experimentation, and AI-assisted concept generation.
 
 --------------------------------------------------
 
