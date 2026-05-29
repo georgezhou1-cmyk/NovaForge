@@ -23,6 +23,8 @@ It is NOT intended for real-world aerospace engineering or mission-critical appl
 
 The physics models are simplified and designed for experimentation and AI-assisted concept generation, we will continue to improve it until it reaches industrial-grade standards in the future.
 
+Please give your feedback after you clone my project.
+
 --------------------------------------------------
 
 # ✨ Features
